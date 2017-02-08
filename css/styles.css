@@ -1,0 +1,16 @@
+h2.intro {
+  text-align: center;
+  color: #40E683;
+  font-size: 100px;
+}
+
+p.intro {
+  font-size: 20px;
+  font-family: Helvetica;
+  margin: 5%;
+}
+
+img.intro {
+  width: 80%;
+  margin: 10%;
+}
