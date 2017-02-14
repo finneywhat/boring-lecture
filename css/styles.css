@@ -14,3 +14,14 @@ img.intro {
   width: 80%;
   margin: 10%;
 }
+
+.highlight-paragraph {
+  background-color: yellow;
+  border: 4px solid black;
+  border-radius: 0px 20px 0px 20px;
+}
+
+.border-image {
+  border-radius: 0px 20px 0px 20px;
+  margin: 0 10px;
+}
